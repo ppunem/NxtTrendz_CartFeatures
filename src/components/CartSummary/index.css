@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.total-head {
+  font-family: 'roboto';
+  color: #616e7c;
+  font-size: 30px;
+  font-weight: 750;
+}
+.amount {
+  color: #171f46;
+  font-size: 35px;
+  font-weight: bold;
+}
+.total-items-count {
+  color: #616e7c;
+  font-size: 18px;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+}
